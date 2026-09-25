@@ -1,10 +1,11 @@
 # Hi, I'm Rohini 👋
 
-Frontend developer based in Amsterdam. I build responsive, accessible web apps with a focus on clean UI and a smooth user experience.
+I turn designs into fast, responsive websites that work for everyone, on any screen.
+I enjoy the moment a layout finally clicks into place and small details make an app feel smooth.
 
-- 🔭 Currently working on: [a weather dashboard built with React and a public API]
-- 🌱 Currently learning: TypeScript and testing with Jest
-- 🎓 Trained at [HackYourFuture](https://hackyourfuture.net), Frontend track
+- 🔭 Currently building: a weather dashboard with React and a public API
+- 🌱 Learning: TypeScript and testing with Jest
+- 🎓 Trained at HackYourFuture, Frontend track
 - 💡 Fun fact: I can solve a Rubik's cube in under a minute
 
 ## 🛠 Tech stack
