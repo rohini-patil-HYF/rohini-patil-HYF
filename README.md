@@ -5,7 +5,7 @@ Frontend developer based in Amsterdam. I build responsive, accessible web apps w
 - 🔭 Currently working on: [a weather dashboard built with React and a public API]
 - 🌱 Currently learning: TypeScript and testing with Jest
 - 🎓 Trained at [HackYourFuture](https://hackyourfuture.net), Frontend track
-- 💡 Fun fact: [I can solve a Rubik's cube in under a minute]
+- 💡 Fun fact: I can solve a Rubik's cube in under a minute
 
 ## 🛠 Tech stack
 
